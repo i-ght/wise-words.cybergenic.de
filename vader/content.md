@@ -1,4 +1,5 @@
 # WISE WORDS OF VADER
+
 - "Leave that to me."
 - "There'll be no one to stop us this time!"
 - "Don't be too proud of this
